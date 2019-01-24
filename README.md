@@ -1,3 +1,3 @@
-AppTest1
+AppTest2
 ========
-Android App Test 1
+Android App Test 2
